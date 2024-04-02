@@ -1,3 +1,6 @@
+https://www.youtube.com/watch?v=5cVOnXchj2g&ab_channel=Abstractprogrammer
+
+
 To create a desktop shortcut for Android Studio on Ubuntu, follow these steps:
 
 1. Open a terminal window.
